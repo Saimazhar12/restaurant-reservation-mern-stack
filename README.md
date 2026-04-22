@@ -6,7 +6,7 @@ A full-stack web application built using MongoDB, Express.js, React, and Node.js
 The goal of this project is to develop a complete restaurant reservation system where users can submit booking requests and store them in a database. This project demonstrates full-stack development skills including frontend design, backend API development, and database integration.
 
 # 📂 Dataset / Data Handling
-- Stores user reservation data (name, email, date, time, guests)
+- Stores user reservation data (name, email, date, time)
 - Data is saved in MongoDB
 - Real-time form submission and storage
 
