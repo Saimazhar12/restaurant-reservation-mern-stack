@@ -42,7 +42,7 @@ The goal of this project is to develop a complete restaurant reservation system 
 # 🚀 How to Run
 
 ## 1. Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+Clone this repository to run and explore the web application locally.
 
 ## 2. Setup Backend
 cd Backend  
